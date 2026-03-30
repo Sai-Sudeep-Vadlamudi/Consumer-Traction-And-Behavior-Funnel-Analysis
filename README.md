@@ -146,7 +146,7 @@ This supports a portfolio narrative around:
 - **Interactive business storytelling**
 - **Self-service analytics enablement**
 
-<img width="633" height="356" alt="{97CB5F10-FA51-44C1-9A32-5B418044BBD1}" src="https://github.com/user-attachments/assets/67cee5a2-3c62-4e21-b3cd-df91b37ff7cb" />
+
 
 
 
