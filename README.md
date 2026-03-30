@@ -41,6 +41,9 @@ A Power BI dashboard file is included to support visual storytelling, KPI tracki
 
 Together, these layers simulate a real-world **analytics workflow used by data analysts, BI analysts, product analysts, and commercial strategy teams**.
 
+
+<img width="632" height="354" alt="{70355E8C-3EBC-4817-9F67-BDB2C667365D}" src="https://github.com/user-attachments/assets/1fc743da-6deb-4cf3-a53e-ca455cba31b1" />
+
 ---
 
 ## Key Capabilities Demonstrated
@@ -145,7 +148,6 @@ This supports a portfolio narrative around:
 
 <img width="633" height="356" alt="{97CB5F10-FA51-44C1-9A32-5B418044BBD1}" src="https://github.com/user-attachments/assets/67cee5a2-3c62-4e21-b3cd-df91b37ff7cb" />
 
-<img width="632" height="354" alt="{70355E8C-3EBC-4817-9F67-BDB2C667365D}" src="https://github.com/user-attachments/assets/37086bd6-a796-4b76-8679-75c811dc9251" />
 
 
 
