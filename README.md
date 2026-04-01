@@ -25,7 +25,9 @@ This consumer-facing businesses need more than static sales totals. They need to
 This project addresses that need by creating a structured analytical workflow for exploring **consumer traction, behavioral patterns, and revenue dynamics** using a curated retail-style customer dataset.
 
 ---
+<img width="620" height="449" alt="{72288F44-C01C-4BF0-BCA6-7110133E5E5A}" src="https://github.com/user-attachments/assets/4fe33237-963d-40c7-b6b6-ce59a03b4b8d" />
 
+---
 ## Solution Overview
 
 The repository implements a compact analytics stack with three tightly connected layers:
