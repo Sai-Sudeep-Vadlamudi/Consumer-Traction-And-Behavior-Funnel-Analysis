@@ -9,6 +9,7 @@ Positioned as a practical analytics portfolio project, the repository demonstrat
 
 ---
 
+
 ## Business Problem
 
 This consumer-facing businesses need more than static sales totals. They need to understand:
